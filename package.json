@@ -1,9 +1,15 @@
 {
   "name": "crud-cli",
   "version": "1.0.3",
+  "keywords": ["api", "crud-cli", "crud"],
   "description": "CRUDapi cli interface",
   "bin": "./bin/crud.js",
   "author": "ZipLant",
+  "repository": "https://github.com/ziplant/crud-cli.git",
+  "bugs": {
+    "url": "https://github.com/ziplant/crud-cli/issues"
+  },
+  "license": "MIT",
   "dependencies": {
     "commander": "^5.1.0",
     "download": "^8.0.0",

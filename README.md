@@ -16,8 +16,4 @@ https://github.com/ziplant/CRUDapi
     crud-cli create <database> <table> -b key=value&key=value   
     crud-cli read <database> <table> -q key=value&key=value   
     crud-cli update <database> <table> -q key=value&key=value -b key=value&key=value      
-<<<<<<< HEAD
-    crud-cli delete <database> <table> -q key=value&key=value   
-=======
-    crud-cli delete <database> <table> -q key=value&key=value   
->>>>>>> ac9f4fc20c122fca0dd085096cc5ad85c0406e00
+    crud-cli delete <database> <table> -q    

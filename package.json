@@ -1,0 +1,14 @@
+{
+  "name": "crud-cli",
+  "version": "1.0.3",
+  "description": "CRUDapi cli interface",
+  "bin": "./bin/crud.js",
+  "author": "ZipLant",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "download": "^8.0.0",
+    "inquirer": "^7.3.0",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.0"
+  }
+}

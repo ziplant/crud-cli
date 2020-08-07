@@ -6,7 +6,7 @@ https://github.com/ziplant/CRUDapi
 
 ## Install
 
-    npm install crud-cli
+    npm install crud-cli -g
 
 
 ## Usage

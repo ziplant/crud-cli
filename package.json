@@ -1,6 +1,6 @@
 {
   "name": "crud-cli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "keywords": ["api", "crud-cli", "crud"],
   "description": "CRUDapi cli interface",
   "bin": "./bin/crud.js",
